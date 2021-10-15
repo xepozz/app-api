@@ -4,7 +4,7 @@
     "description": "Yii Framework API project template",
     "keywords": [
         "yii3",
-        "app",
+        "app", 
         "api",
         "rest"
     ],
